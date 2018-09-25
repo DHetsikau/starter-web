@@ -8,6 +8,10 @@ THis is example to show different parts of git repository and various commands u
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple examples for git training demos.
+
 ## Deployemnt
+
+THis is a simple web project, deployemnt can be on any server.
 
 ## How to Contribute
